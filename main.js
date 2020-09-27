@@ -362,7 +362,7 @@ class AccessibilityComponent {
     }
 }
 AccessibilityComponent.ɵfac = function AccessibilityComponent_Factory(t) { return new (t || AccessibilityComponent)(); };
-AccessibilityComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AccessibilityComponent, selectors: [["app-accessibility"]], decls: 24, vars: 0, consts: [[1, "pattern"], ["href", "#", "routerLink", "/work", 1, "back"], [1, "container", "details"], ["href", "https://maidstone.gov.uk/home/accessibility-statement"], ["src", "assets/img/accessibility-work/silktide.png", "alt", "Dashboard of service used"], ["src", "assets/img/accessibility-work/twitter-page.png", "alt", "Tweet about our work"]], template: function AccessibilityComponent_Template(rf, ctx) { if (rf & 1) {
+AccessibilityComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AccessibilityComponent, selectors: [["app-accessibility"]], decls: 24, vars: 0, consts: [[1, "pattern"], ["href", "#", "routerLink", "/work", 1, "back"], [1, "container", "details"], ["href", "https://maidstone.gov.uk/home/accessibility-statement", "target", "_blank"], ["src", "assets/img/accessibility-work/silktide.png", "alt", "Dashboard of service used"], ["src", "assets/img/accessibility-work/twitter-page.png", "alt", "Tweet about our work"]], template: function AccessibilityComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "a", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "BACK TO WORK");
